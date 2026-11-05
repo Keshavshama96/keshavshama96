@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshavshama96" alt="keshavshama96" /></a> </p>
 
-- 🔭 I’m currently working on [SCAM-SHIELD](https://interview-project-fawn.vercel.app/)
-
 - 🌱 I’m currently learning **React Js, Node Js, MongoDb,Express Js,Python,SQL,DSA,**
 
 - 📫 How to reach me **keshavshama1@gmail.com**
